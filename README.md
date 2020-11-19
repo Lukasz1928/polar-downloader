@@ -1,0 +1,1 @@
+It's a tool that copies all trainings from polar flow to strava
